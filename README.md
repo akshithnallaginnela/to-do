@@ -167,5 +167,5 @@ If you have any questions or need assistance, feel free to open an issue in the 
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Akshith Nallaginnela
 </div>
